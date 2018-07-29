@@ -12,4 +12,5 @@ Begin Reinforcement Learning
 * http://www.wildml.com/2016/10/learning-reinforcement-learning/  
 * https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287  
 * https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/  
+* http://www.pinchofintelligence.com/getting-started-openai-gym/  
 
