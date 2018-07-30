@@ -13,4 +13,7 @@ Begin Reinforcement Learning
 * https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287  
 * https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/  
 * http://www.pinchofintelligence.com/getting-started-openai-gym/  
+* https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419  
+* https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus  
+* https://towardsdatascience.com/getting-started-with-reinforcement-q-learning-77499b1766b6  
 
