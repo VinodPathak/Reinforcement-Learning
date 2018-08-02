@@ -16,4 +16,5 @@ Begin Reinforcement Learning
 * https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419  
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus  
 * https://towardsdatascience.com/getting-started-with-reinforcement-q-learning-77499b1766b6  
+* https://medium.com/tensorflow/deep-reinforcement-learning-playing-cartpole-through-asynchronous-advantage-actor-critic-a3c-7eab2eea5296  
 
