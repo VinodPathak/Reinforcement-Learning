@@ -20,6 +20,7 @@ Begin Reinforcement Learning
 * https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01  
 * https://skymind.ai/wiki/deep-reinforcement-learning  
 * https://frnsys.com/ai_notes/artificial_intelligence/reinforcement_learning.html  
+* https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations/  
 
 
 This repository contains most of classic deep reinforcement learning algorithms, including - DQN, DDPG, A3C, PPO, TRPO. (More algorithms are still in progress)
