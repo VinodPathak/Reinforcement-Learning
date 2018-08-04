@@ -20,3 +20,4 @@ Begin Reinforcement Learning
 
 This repository contains most of classic deep reinforcement learning algorithms, including - DQN, DDPG, A3C, PPO, TRPO. (More algorithms are still in progress)
 * https://github.com/TianhongDai/reinforcement-learning-algorithms  
+* https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow  
