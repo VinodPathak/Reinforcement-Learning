@@ -35,3 +35,5 @@ This repository contains most of classic deep reinforcement learning algorithms,
 
 ### Courses   
 1. Reinforcement Learning Explained  
+2. https://notebooks.azure.com/Microsoft-Learning/libraries/DAT257x/tree/LabFiles/lib/envs  
+
