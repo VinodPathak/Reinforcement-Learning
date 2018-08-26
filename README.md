@@ -32,3 +32,6 @@ This repository contains most of classic deep reinforcement learning algorithms,
 
 ### Evolutionary Algorithm  
 * https://github.com/MorvanZhou/Evolutionary-Algorithm  
+
+### Courses   
+1. Reinforcement Learning Explained  
