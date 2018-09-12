@@ -37,3 +37,5 @@ This repository contains most of classic deep reinforcement learning algorithms,
 1. Reinforcement Learning Explained  
 2. https://notebooks.azure.com/Microsoft-Learning/libraries/DAT257x/tree/LabFiles/lib/envs  
 
+### Medium Tutorial Series  
+> https://medium.com/comet-ml/reinforcement-learning-a-comprehensive-introduction-part-0-bb27fa103272  
