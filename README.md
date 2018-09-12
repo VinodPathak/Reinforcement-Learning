@@ -39,3 +39,5 @@ This repository contains most of classic deep reinforcement learning algorithms,
 
 ### Medium Tutorial Series  
 > https://medium.com/comet-ml/reinforcement-learning-a-comprehensive-introduction-part-0-bb27fa103272  
+> https://www.lpalmieri.com/posts/rl-introduction-01/  
+> https://www.lpalmieri.com/posts/rl-introduction-02/  
