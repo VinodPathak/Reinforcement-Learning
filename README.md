@@ -41,3 +41,6 @@ This repository contains most of classic deep reinforcement learning algorithms,
 > https://medium.com/comet-ml/reinforcement-learning-a-comprehensive-introduction-part-0-bb27fa103272  
 > https://www.lpalmieri.com/posts/rl-introduction-01/  
 > https://www.lpalmieri.com/posts/rl-introduction-02/  
+
+### RL policy gradient  
+> https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146  
