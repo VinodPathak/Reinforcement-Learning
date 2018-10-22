@@ -44,3 +44,8 @@ This repository contains most of classic deep reinforcement learning algorithms,
 
 ### RL policy gradient  
 > https://medium.com/@jonathan_hui/rl-policy-gradients-explained-9b13b688b146  
+
+https://meowni.ca/posts/rl-with-otters/  ]
+
+http://rail.eecs.berkeley.edu/deeprlcourse/  
+https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry  
