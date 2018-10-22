@@ -51,3 +51,7 @@ http://rail.eecs.berkeley.edu/deeprlcourse/
 https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry  
 
 https://deepmind.com/blog/deep-reinforcement-learning/  
+
+http://amid.fish/reproducing-deep-rl  
+
+https://github.com/tigerneil/awesome-deep-rl  
