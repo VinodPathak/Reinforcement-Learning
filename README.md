@@ -49,3 +49,5 @@ https://meowni.ca/posts/rl-with-otters/  ]
 
 http://rail.eecs.berkeley.edu/deeprlcourse/  
 https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry  
+
+https://deepmind.com/blog/deep-reinforcement-learning/  
