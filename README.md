@@ -55,3 +55,5 @@ https://deepmind.com/blog/deep-reinforcement-learning/
 http://amid.fish/reproducing-deep-rl  
 
 https://github.com/tigerneil/awesome-deep-rl  
+
+https://towardsdatascience.com/the-multi-armed-bandits-problem-bba9ea35a1e4  
